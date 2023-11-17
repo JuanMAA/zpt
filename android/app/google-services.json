@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "174082544178",
+    "project_id": "test-zippypay",
+    "storage_bucket": "test-zippypay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174082544178:android:7eabcddc4083e7a830222b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174082544178-35sa53r6of1h3bp0cfjl2ugk31imvftg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1j_qvytDC-49OrcDPVKCfjEJMWBGc-oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174082544178-35sa53r6of1h3bp0cfjl2ugk31imvftg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174082544178-9usob2tad84fnt0nabbj59mqu803uuog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
