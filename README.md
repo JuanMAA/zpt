@@ -1,4 +1,4 @@
-# zippypay-front
+# zpt-front
 
 A new Flutter project.
 
